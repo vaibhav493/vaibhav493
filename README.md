@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **itsmevaibhavwaghmare7666@gmail.com**
 
--portfolio: https://vaibhav493.github.io
+Portfolio: https://vaibhav493.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
